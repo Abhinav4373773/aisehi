@@ -9,3 +9,5 @@ warnings
 flask
 google.colab.output
 IPython.display
+nbconvert
+jupyter
