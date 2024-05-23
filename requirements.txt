@@ -4,7 +4,6 @@ pandas
 tensorflow
 transformers==4.31.0
 tensorflow
-re
 warnings
 flask
 google.colab.output
