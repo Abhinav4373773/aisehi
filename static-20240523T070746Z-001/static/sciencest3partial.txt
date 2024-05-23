@@ -1,0 +1,45 @@
+Question: Explain the process of photosynthesis?
+Answer: Photosynthesis involves the conversion of light energy into chemical energy, occurring in
+chloroplasts. Chlorophyll absorbs sunlight, leading to the synthesis of glucose and oxygen from
+carbon dioxide and water.
+
+Question: Describe the concept of gravitational force?
+Answer: Gravitational force is the attraction between masses, governed by Newton's law. It
+affects all objects universally, with force proportional to masses and inversely proportional to
+distance.
+
+Question: What is the structure and function of DNA?
+Answer: DNA is a double-helix structure with nucleotides, carrying genetic information.
+Transcription and translation processes use DNA as a blueprint for protein synthesis.
+
+Question: Explain the greenhouse effect?
+Answer: The greenhouse effect is a natural process where specific gases trap and radiate heat in
+Earth's atmosphere. Solar radiation warms the surface, and greenhouse gases retain heat,
+sustaining a suitable temperature.
+
+Question: Discuss the properties and uses of magnetic fields?
+Answer: Magnetic fields surround magnets, exerting forces. They find applications in motors,
+generators, MRI machines, and compasses.
+
+Question: Elaborate on the process of cellular respiration?
+Answer: Cellular respiration breaks down glucose in cells, producing energy. It involves glycolysis,
+the citric acid cycle, and oxidative phosphorylation in mitochondria.
+
+Question: Describe the Doppler effect and its applications?
+Answer: The Doppler effect is a frequency change in waves due to relative motion. Applications
+include weather radar, medical ultrasound, and astronomy.
+
+Question: Explain the principles behind Archimedes' buoyancy?
+Answer: Archimedes' principle states objects in a fluid experience an upward buoyant force equal
+to the fluid displaced. It explains floating and sinking.
+
+Question: Discuss the stages of the water cycle?
+Answer: The water cycle involves evaporation, condensation, precipitation, and runoff. Water
+transitions between states, contributing to Earth's water balance.
+
+Question: Elaborate on the structure and function of a neuron?
+Answer: Neurons, comprising a cell body, dendrites, and axon, transmit signals. Electrical impulses
+and neurotransmitters facilitate communication, impacting processes like sensation and
+movement.
+
+
